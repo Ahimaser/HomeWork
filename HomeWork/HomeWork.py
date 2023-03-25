@@ -97,4 +97,3 @@ def summVersion2(a, b, c):
 
 print(summVersion1(1, 4, 2))
 print(summVersion2(1, 4, 2))
-
